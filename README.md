@@ -66,6 +66,8 @@ This report displays:
 - Price
 - Stock Quantity
 
+![Report 1 output](report1.webp)
+
 ## How to Run Report 2
 
 Report 2 displays information from more than one table. It joins the `Product` and `Vendor` tables.
@@ -92,6 +94,8 @@ This report displays:
 - Vendor Phone
 
 The report uses an `INNER JOIN` so each product is shown with its matching vendor.
+
+![Report 2 output](report2.webp)
 
 ## How to Run Report 3
 
