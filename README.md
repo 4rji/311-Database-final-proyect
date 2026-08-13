@@ -109,6 +109,8 @@ Run:
 python3 report3.py
 ```
 
+![Report 3 output](report3.webp)
+
 Then enter:
 
 ```text
